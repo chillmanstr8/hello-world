@@ -1,0 +1,83 @@
+BEGINNING POWERSHELL SCRIPTING FOR DEVELOPERS
+VM1072:10 ------Understanding the PowerShell Platform------
+VM1072:13 1 - The PowerShell Interactive Console
+VM1072:13 2 - The PowerShell ISE
+VM1072:13 3 - Commenting in PowerShell
+VM1072:13 4 - Your First Cmdlets
+VM1072:13 5 - PowerShell Aliases
+VM1072:13 6 - Putting the Power in PowerShell - Pipelining
+VM1072:13 7 - Not Just Another Pretty Face - Out-Gridview
+VM1072:13 8 - Providers in PowerShell
+VM1072:15  
+VM1072:16  
+VM1072:10 ------Using Variables in PowerShell------
+VM1072:13 9 - Introduction to Variables
+VM1072:13 10 - Comparisons and Calculations in PowerShell
+VM1072:13 11 - PowerShell's Built-in Variables
+VM1072:13 12 - The Variable Cmdlets
+VM1072:15  
+VM1072:16  
+VM1072:10 ------Strings, Arrays, and Hash Tables------
+VM1072:13 13 - Basic Strings
+VM1072:13 14 - String Interpolation
+VM1072:13 15 - Formatting Strings
+VM1072:13 16 - Arrays
+VM1072:13 17 - Hashtables
+VM1072:15  
+VM1072:16  
+VM1072:10 ------Program Flow------
+VM1072:13 18 - Branching Logic
+VM1072:13 19 - Loops in PowerShell
+VM1072:13 20 - PowerShell Script Blocks
+VM1072:15  
+VM1072:16  
+VM1072:10 ------Reusing Code with Functions and Modules------
+VM1072:13 21 - Basic Functions
+VM1072:13 22 - Scoping and Parameters
+VM1072:13 23 - Writing a Pipeline Enabled Function
+VM1072:13 24 - Advanced Functions
+VM1072:13 25 - Error Handling
+VM1072:13 26 - Beginning Modules
+VM1072:13 27 - Advanced Modules
+VM1072:13 28 - Making Modules Easy to Use
+VM1072:13 29 - Profiles
+VM1072:15  
+VM1072:16  
+VM1072:10 ------Advanced Concepts------
+VM1072:13 30 - Debugging
+VM1072:13 31 - Security - Execution Policy
+VM1072:13 32 - Code Signing Overview
+VM1072:13 33 - Creating a Self Signed Code Signing Certificate
+VM1072:13 34 - Signing Your Scripts
+VM1072:13 35 - Remoting
+VM1072:15  
+VM1072:16  
+VM1072:10 ------Working with Objects------
+VM1072:13 36 - Object Oriented Terminology
+VM1072:13 37 - Creating Objects from HashTables
+VM1072:13 38 - Creating Objects from PSObject
+VM1072:13 39 - Property Aliases and Script Blocks
+VM1072:13 40 - Script Blocks with Parameters
+VM1072:13 41 - Script Property
+VM1072:13 42 - Default Properties
+VM1072:13 43 - Classes from .NET Code - Static Methods
+VM1072:13 44 - Classes from .NET Code - Embedded
+VM1072:13 45 - Classes from .NET Code - External Files
+VM1072:13 46 - Adding Properties and Scripts to Existing Objects
+VM1072:13 47 - Serializing an Object
+VM1072:13 48 - Basic PowerShell V5 Classes
+VM1072:13 49 - PowerShell 5 Enums
+VM1072:13 50 - Advanced PowerShell V5 Classes
+VM1072:15  
+VM1072:16  
+VM1072:10 ------Resources, Other IDEs, and a Real World Module------
+VM1072:13 51 - Alternate IDE 1 - Idera PowerShellPlus
+VM1072:13 52 - Alternate IDE 2 - Visual Studio PoshTools
+VM1072:13 53 - Alternate IDE 3 - Sapien PowerShell Studio
+VM1072:13 54 - PowerShell Resources
+VM1072:13 55 - Using Online Resources - The Deploy Module Script
+VM1072:13 56 - Creating the ZipCodeLookup Class
+VM1072:13 57 - Deploying the ZipCodeLookup Class
+VM1072:13 58 - Using the ZipCodeLookup Class Part 1
+VM1072:13 59 - Using the ZipCodeLookup Class Part 2
+VM1072:15  
