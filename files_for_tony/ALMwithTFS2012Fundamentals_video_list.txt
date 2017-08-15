@@ -1,0 +1,140 @@
+ALM WITH TFS 2012 FUNDAMENTALS
+------Microsoft ALM Overview------
+VM1358:13 1 - Introduction
+VM1358:13 2 - If you learn only one thing...
+VM1358:13 3 - What is ALM?
+VM1358:13 4 - TFS can help
+VM1358:13 5 - TFS and ALM...not just for small teams
+VM1358:13 6 - The Big Picture and TFS
+VM1358:13 7 - Team Foundation Server
+VM1358:13 8 - Connect to TFS
+VM1358:13 9 - Version Control
+VM1358:13 10 - Requirements Management
+VM1358:13 11 - Agile Planning
+VM1358:13 12 - Automated Build
+VM1358:13 13 - Testing and Defect Tracking
+VM1358:13 14 - Feedback
+VM1358:13 15 - Lab Management
+VM1358:13 16 - Reporting
+VM1358:13 17 - Outro
+VM1358:15  
+VM1358:16  
+VM1358:10 ------Basic Setup and Configuration------
+VM1358:13 18 - Introduction
+VM1358:13 19 - The core pieces of TFS
+VM1358:13 20 - Other pieces of TFS
+VM1358:13 21 - Things that bolt on to TFS
+VM1358:13 22 - TFS configurations
+VM1358:13 23 - TFS on Windows Azure
+VM1358:13 24 - Fancy TFS configurations
+VM1358:13 25 - TFS hardware capacity planning
+VM1358:13 26 - TFS pre-requisites
+VM1358:13 27 - Installing TFS
+VM1358:13 28 - Team Project Team Project Collections
+VM1358:13 29 - Process Templates
+VM1358:13 30 - Demo: Create a Team Project
+VM1358:13 31 - Permissions and Security
+VM1358:13 32 - Demo: Tour of TFS permissions
+VM1358:13 33 - Demo: The TFS Administration Console
+VM1358:13 34 - A simple TFS backup plan
+VM1358:13 35 - Outro
+VM1358:15  
+VM1358:16  
+VM1358:10 ------Version Control Basics------
+VM1358:13 36 - Introduction
+VM1358:13 37 - TFS Version Control
+VM1358:13 38 - How to access TFS Version Control
+VM1358:13 39 - Demo: My First 'Get Latest'
+VM1358:13 40 - TFS Workspaces
+VM1358:13 41 - Demo: The TFS Workspace Editor
+VM1358:13 42 - Server vs. Local Workspaces
+VM1358:13 43 - Configure a new project
+VM1358:13 44 - Demo: Set up the repository and add code
+VM1358:13 45 - Keep it simple.
+VM1358:13 46 - Version control operations
+VM1358:13 47 - Outro
+VM1358:15  
+VM1358:16  
+VM1358:10 ------Version Control Beyond The Basics------
+VM1358:13 48 - Introduction
+VM1358:13 49 - Demo: Offline features
+VM1358:13 50 - Free yourself from the read-only bit
+VM1358:13 51 - Demo: Detected changes and associated work items
+VM1358:13 52 - Version control locks
+VM1358:13 53 - Shelving
+VM1358:13 54 - Demo: Shelving
+VM1358:13 55 - Branching and Merging
+VM1358:13 56 - Demo: Branching and Merging
+VM1358:13 57 - Demo: Server-side settings
+VM1358:13 58 - Demo: Permissions
+VM1358:13 59 - Summary
+VM1358:15  
+VM1358:16  
+VM1358:10 ------Work Item Basics------
+VM1358:13 60 - Introduction
+VM1358:13 61 - What is a work item?
+VM1358:13 62 - Ways to edit work items
+VM1358:13 63 - Demo: Edit Work Items in Visual Studio 2012
+VM1358:13 64 - Demo: Edit Work Items in Excel
+VM1358:13 65 - Work Item Types
+VM1358:13 66 - Work Item Links
+VM1358:13 67 - Demo: Work Item Links
+VM1358:13 68 - Stay organized with Areas Iterations
+VM1358:13 69 - Demo: Areas and Iterations
+VM1358:13 70 - Work Item Queries
+VM1358:13 71 - Demo: Work Item Queries
+VM1358:13 72 - Summary
+VM1358:15  
+VM1358:16  
+VM1358:10 ------Agile and Scrum Planning Tools------
+VM1358:13 73 - Introduction
+VM1358:13 74 - Subdivide your project with Teams
+VM1358:13 75 - Demo: Create a Team
+VM1358:13 76 - Some context about Work Items
+VM1358:13 77 - The blindingly fast overview of Scrum and Agile
+VM1358:13 78 - The Scrum / Agile Planning Tools
+VM1358:13 79 - Demo: Product Backlog Manager
+VM1358:13 80 - Demo: Sprint Planning
+VM1358:13 81 - Demo: Scrum Board
+VM1358:13 82 - Demo: The Burndown Chart
+VM1358:13 83 - Summary
+VM1358:15  
+VM1358:16  
+VM1358:10 ------Work Item Customization------
+VM1358:13 84 - Introduction
+VM1358:13 85 - Work Item Customization
+VM1358:13 86 - WitAdmin.exe
+VM1358:13 87 - Backup your process template
+VM1358:13 88 - Demo: Backup your process template
+VM1358:13 89 - Two ways to customize
+VM1358:13 90 - Structure of a WITD
+VM1358:13 91 - Work Item Fields
+VM1358:13 92 - Work Item States and Transitions
+VM1358:13 93 - Work Item Form
+VM1358:13 94 - Demo: Customize the WITD
+VM1358:13 95 - Demo: Upload the changes to TFS
+VM1358:13 96 - Demo: Add the customization to Source Control
+VM1358:13 97 - Summary
+VM1358:15  
+VM1358:16  
+VM1358:10 ------Automated Build Basics------
+VM1358:13 98 - Introduction
+VM1358:13 99 - Why automated builds?
+VM1358:13 100 - Installing and Planning TFS Build
+VM1358:13 101 - Demo: Install the build service
+VM1358:13 102 - Demo: Create a build definition
+VM1358:13 103 - Demo: Run the build
+VM1358:13 104 - Summary
+VM1358:15  
+VM1358:16  
+VM1358:10 ------Automated Builds Beyond The Basics------
+VM1358:13 105 - Introduction
+VM1358:13 106 - Demo: Gated Check-in Builds
+VM1358:13 107 - Build customization
+VM1358:13 108 - Demo: Clone the default build
+VM1358:13 109 - Demo: Add the build to the build editor project
+VM1358:13 110 - Demo: Using 3rd Party Build Activities
+VM1358:13 111 - Demo: Add an argument to the build script
+VM1358:13 112 - Summary
+VM1358:15  
+VM1358:16  
